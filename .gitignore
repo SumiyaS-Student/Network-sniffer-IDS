@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime / credentials - never commit
+config.json
+.env
+.env.*
+!.env.example
+data/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Logs
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

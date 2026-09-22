@@ -296,7 +296,7 @@ class MainWindow:
             btn.pack(fill="x")
             self._nav_buttons[key] = btn
         tk.Frame(parent, bg=COLORS["nav_bg"]).pack(fill="both", expand=True)
-        v_lbl = tk.Label(parent, text=f"  v1.0.0 · Supraja Technologies",
+        v_lbl = tk.Label(parent, text=f"  v1.0.0 · SumiyaS-Student",
                          bg=COLORS["nav_bg"], fg=COLORS["text_muted"],
                          font=SMALL_FONT, anchor="w")
         v_lbl.pack(fill="x", pady=(0, 14))

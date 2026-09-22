@@ -15,11 +15,11 @@ VSVersionInfo(
       StringTable(
         u'040904B0',
         [
-          StringStruct(u'CompanyName', u'Supraja Technologies'),
+          StringStruct(u'CompanyName', u'SumiyaS-Student'),
           StringStruct(u'FileDescription', u'Network Packet Sniffer & Intrusion Detection System'),
           StringStruct(u'FileVersion', u'1.0.0'),
           StringStruct(u'InternalName', u'NetworkSnifferIDS'),
-          StringStruct(u'LegalCopyright', u'Copyright (c) 2026 Supraja Technologies'),
+          StringStruct(u'LegalCopyright', u'Copyright (c) 2026 SumiyaS-Student'),
           StringStruct(u'OriginalFilename', u'NetworkSnifferIDS.exe'),
           StringStruct(u'ProductName', u'Network Packet Sniffer & IDS'),
           StringStruct(u'ProductVersion', u'1.0.0')
